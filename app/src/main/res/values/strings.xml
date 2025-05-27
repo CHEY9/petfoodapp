@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bark Bistro</string>
+    <string name="introTitlle"><font color="#5B4CBD">Your Shopping</font> Destination \nFor Pet Items</string>
+    <string name="introSubtitle">Get Personalized Recommendations \nEnjoy Fast Free Shipping</string>
+    <string name="signIn">Already have an account? <font color="#5B4CBD">Sign in</font></string>
+    <string name="select">Select Payment Method</string>
+</resources>

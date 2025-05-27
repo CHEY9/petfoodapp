@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "136640839758",
+    "firebase_url": "https://petfood-app-b8706-default-rtdb.firebaseio.com",
+    "project_id": "petfood-app-b8706",
+    "storage_bucket": "petfood-app-b8706.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136640839758:android:a1c5b2100c8ba20db1831f",
+        "android_client_info": {
+          "package_name": "com.example.dogfoodapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbKNCm6P83ePibxqLkJQC2W03AegvMmLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

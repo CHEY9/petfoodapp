@@ -1,0 +1,107 @@
+{
+  "Banner": [
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/project175-f1c13.appspot.com/o/banner2.png?alt=media&token=2c2a98de-2240-4130-8a89-7fbe7e49fa21"
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/project175-f1c13.appspot.com/o/banner1.png?alt=media&token=6cb7ba57-4cd5-434a-b668-b1c1c0237fb3"
+    }
+  ],
+  "Category": [
+    {
+      "id": 0,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/project175-f1c13.appspot.com/o/cat1.png?alt=media&token=3ddbccd5-0593-4145-bbd3-c3c81cf1742b",
+      "title": "Adidas"
+    },
+    {
+      "id": 1,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/project175-f1c13.appspot.com/o/cat2.png?alt=media&token=de7f1495-9afd-4a2d-8634-a8954c464301",
+      "title": "Nike"
+    },
+    {
+      "id": 2,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/project175-f1c13.appspot.com/o/cat3.png?alt=media&token=7db0bc57-6d38-4e5f-b55c-1749df508755",
+      "title": "Puma"
+    },
+    {
+      "id": 3,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/project175-f1c13.appspot.com/o/cat4.png?alt=media&token=b38081b5-6472-4b0e-8173-ef4326d99b57",
+      "title": "Zara"
+    },
+    {
+      "id": 4,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/project175-f1c13.appspot.com/o/cat5.png?alt=media&token=ab0e35db-c9ef-4ce1-b74c-d2bfc51a112c",
+      "title": "Gucci"
+    }
+  ],
+  "Items": [
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. ",
+      "oldPrice": 25,
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project186-de05e.appspot.com/o/item1.png?alt=media&token=35832091-4da1-4d4f-9817-6267b90462ac"
+      ],
+      "price": 35,
+      "rating": 4.6,
+      "review": 10,
+      "title": "Stylish Plaid Shirt"
+    },
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. ",
+      "oldPrice": 40,
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project186-de05e.appspot.com/o/item2.png?alt=media&token=5a796b9e-0e16-46a4-8d0d-83d107db708f"
+      ],
+      "price": 55,
+      "rating": 4.1,
+      "review": 45,
+      "title": "Blue Cosmetic Bag"
+    },
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. ",
+      "oldPrice": 60,
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project186-de05e.appspot.com/o/item0.png?alt=media&token=4aa495a9-8621-4b6f-8af2-729d71218fd4",
+        "https://firebasestorage.googleapis.com/v0/b/project186-de05e.appspot.com/o/item0_1.png?alt=media&token=3bc1e6eb-ed63-4031-a1c2-abeba1280457",
+        "https://firebasestorage.googleapis.com/v0/b/project186-de05e.appspot.com/o/item0_2.png?alt=media&token=ce66c94c-d257-4280-a1b9-ea8c30ed25ff"
+      ],
+      "price": 75,
+      "rating": 4.5,
+      "review": 10,
+      "title": "Cozy Knit Sweater"
+    },
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. ",
+      "oldPrice": 30,
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project186-de05e.appspot.com/o/item4.png?alt=media&token=b913c6b7-afee-4904-9f19-dbc8db093637"
+      ],
+      "price": 40,
+      "rating": 4.2,
+      "review": 2,
+      "title": "Wireless Headphones"
+    },
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. ",
+      "oldPrice": 320,
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project186-de05e.appspot.com/o/item5.png?alt=media&token=65f7648d-99fd-4ae1-b6bf-778f8fa46c04"
+      ],
+      "price": 390,
+      "rating": 4.4,
+      "review": 9,
+      "title": "Professional Camera"
+    },
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. ",
+      "oldPrice": 2000,
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project186-de05e.appspot.com/o/item6.png?alt=media&token=dd526c8e-66df-448d-a51f-fa4dbdef6970"
+      ],
+      "price": 1850,
+      "rating": 4.7,
+      "review": 10,
+      "title": "Powerful Laptop"
+    }
+  ]
+}
