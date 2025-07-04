@@ -49,7 +49,7 @@ public class RegisterActivity extends AppCompatActivity {
             return;
         }
         if (!password.equals(confirmPassword)) {
-            Toast.makeText(RegisterActivity.this, "Passwords mismatch", Toast.LENGTH_SHORT).show();
+            Toast.makeText(RegisterActivity.this, "Passwords mismatch!", Toast.LENGTH_SHORT).show();
             return;
         }
         mAuth.createUserWithEmailAndPassword(email, password)

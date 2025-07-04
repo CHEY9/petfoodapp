@@ -32,7 +32,7 @@ public class UpdateDetailsActivity extends BaseActivity {
     private String userEmail, userKey;
     private EditText usernameEditText, addressEditText, paymentMethodEditText;
     private Button saveDetailsBtn;
-    String[] items =  {"Visa / Master Debit Card","Credit Card","Cash On Delivery","Paypal","KoKo Pay"};
+    String[] items =  {"Visa / Master Debit Card","Credit Card","Cash On Delivery","Paypal","Apple Pay"};
     AutoCompleteTextView autoCompleteTxt;
     ArrayAdapter<String> adapterItems;
     String updatedPaymentMethod;
