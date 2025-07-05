@@ -140,7 +140,7 @@ public class ProfileActivity extends AppCompatActivity {
 
             @Override
             public void onCancelled(DatabaseError databaseError) {
-                Toast.makeText(ProfileActivity.this, "Failed to load orders.", Toast.LENGTH_SHORT).show();
+                Toast.makeText(ProfileActivity.this, "Failed to load orders", Toast.LENGTH_SHORT).show();
             }
         });
     }

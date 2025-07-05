@@ -108,7 +108,7 @@ public class CartActivity extends BaseActivity {
         databaseReference.push().setValue(order)
                 .addOnCompleteListener(task -> {
                     if (task.isSuccessful()) {
-                        Toast.makeText(CartActivity.this, "Order saved to database.", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(CartActivity.this, "Order saved to database successfully.", Toast.LENGTH_SHORT).show();
                         Intent intent = new Intent(CartActivity.this, MainActivity.class);
                         intent.putExtra("userEmail",userEmail);
                         startActivity(intent);
