@@ -94,10 +94,10 @@ private void saveUserInfo() {
             @Override
             public void onComplete(@NonNull Task<Void> task) {
                 if (task.isSuccessful()) {
-                    Toast.makeText(UpdateDetailsActivity.this, "User information updated", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(UpdateDetailsActivity.this, "User information updated.", Toast.LENGTH_SHORT).show();
                     finish();
                 } else {
-                    Toast.makeText(UpdateDetailsActivity.this, "Failed to update user information", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(UpdateDetailsActivity.this, "Failed to update user information.", Toast.LENGTH_SHORT).show();
                 }
             }
         });
