@@ -12,7 +12,6 @@ public class CategoryDomain {
     }
 
     public CategoryDomain() {
-
     }
 
     public CategoryDomain(String title) {

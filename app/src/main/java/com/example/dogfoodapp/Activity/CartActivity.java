@@ -92,14 +92,12 @@ public class CartActivity extends BaseActivity {
 
     }
 
-
-    //idk
     private void placeOrder() {
         double precentTax = 0.02;
         double delivery = 10;
         tax = Math.round((managmentCart.getTotalFee()*precentTax*100.0))/100.0;
         double total = Math.round((managmentCart.getTotalFee() + tax + delivery) *100 )/100.0;
-        ArrayList<ItemsDomain> cartItems = managmentCart.getListCart(); // Assuming you have a CartItem class
+        ArrayList<ItemsDomain> cartItems = managmentCart.getListCart();
 
         // Create an order object
         Order order = new Order(userEmail, total, cartItems);
