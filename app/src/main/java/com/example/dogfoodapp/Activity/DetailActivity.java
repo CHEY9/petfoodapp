@@ -80,7 +80,5 @@ public class DetailActivity extends BaseActivity {
 
         binding.backBtn.setOnClickListener(view -> finish());
 
-
-
     }
 }
