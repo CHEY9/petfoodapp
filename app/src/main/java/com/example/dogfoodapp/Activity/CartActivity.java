@@ -117,7 +117,6 @@ public class CartActivity extends BaseActivity {
                 });
     }
 
-    //idk
     public static class Order {
         public String userEmail;
         public double total;
