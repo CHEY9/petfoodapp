@@ -77,7 +77,6 @@ public class DetailActivity extends BaseActivity {
             object.setNumberinCart(numberOrder);
             managmentCart.insertItem(object);
         });
-
         binding.backBtn.setOnClickListener(view -> finish());
 
     }
