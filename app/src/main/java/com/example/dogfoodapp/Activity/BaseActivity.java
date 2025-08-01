@@ -17,6 +17,5 @@ public class BaseActivity extends AppCompatActivity {
         database = FirebaseDatabase.getInstance();
         Window w = getWindow();
         w.setFlags(WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS,WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS);
-
     }
 }

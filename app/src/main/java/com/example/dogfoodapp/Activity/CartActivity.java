@@ -89,7 +89,6 @@ public class CartActivity extends BaseActivity {
         binding.taxTxt.setText("$"+tax);
         binding.delivertTxt.setText("$"+delivery);
         binding.totalTxt.setText("$"+total);
-
     }
 
     private void placeOrder() {
